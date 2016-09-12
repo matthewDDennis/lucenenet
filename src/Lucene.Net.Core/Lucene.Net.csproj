@@ -8,7 +8,7 @@
     <NoStandardLibraries>false</NoStandardLibraries>
     <AssemblyName>Lucene.Net</AssemblyName>
     <RootNamespace>Lucene.Net</RootNamespace>
-    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
